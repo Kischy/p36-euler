@@ -1,4 +1,4 @@
-# p36-euler: Circular primes
+# p36-euler: Double-base Palindromes
 
 https://projecteuler.net/problem=36
 
